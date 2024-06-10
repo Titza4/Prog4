@@ -1,5 +1,40 @@
 # Prog4
 Портфолио студента 2 курса ИВТ Жуйкова Алексея Валериановича
+Программирование 3 курс:
+
+Лабораторная работа 1
+https://replit.com/@alexeyzhuykovtt/prog3lr1?v=1
+
+Лабораторная работа 2
+https://replit.com/@alexeyzhuykovtt/prog3lb2?v=1
+
+Лабораторная работа 3
+https://replit.com/@alexeyzhuykovtt/prog3lb3?v=1
+
+Лабораторная работа 4
+https://replit.com/@alexeyzhuykovtt/prog3lb411?v=1
+
+https://replit.com/@alexeyzhuykovtt/prog3lb412?v=1
+
+https://replit.com/@alexeyzhuykovtt/prog3lb413?v=1
+
+https://replit.com/@alexeyzhuykovtt/prog3lb4141?v=1
+
+https://replit.com/@alexeyzhuykovtt/prog3lb4142?v=1
+
+
+
+Лабораторная работа 5
+
+
+Лабораторная работа 6
+
+
+Лабораторная работа 7
+
+
+
+Программирование 4 курс:
 
 Лабораторная работа 1
 https://replit.com/@alexeyzhuykovtt/prog4lb117var?v=1
